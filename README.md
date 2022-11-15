@@ -1,2 +1,2 @@
 # tiptime
-Simple tip calculator app from android code labs
+Simple tip calculator app from android codelabs
